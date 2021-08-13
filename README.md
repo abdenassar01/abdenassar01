@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abdenassar01
 - 👀 I’m interested in web programming, desktop , and mobile .
-- 🌱 I’m currently learning c , vb.net , sql server , html and css
+- 🌱 I’m currently learning c , vb.net, java , sql server , html, css and JavaScript 
 - 💞️ I’m looking to collaborate on not Now
 - 📫 How to reach me abdenassaramimi2001@gmail.com
 
