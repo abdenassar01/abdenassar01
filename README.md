@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @abdenassar01
-- 👀 I’m interested in web programming, desktop , and mobile .
-- 🌱 I’m currently learning c , vb.net, java , sql server , html, css and JavaScript 
+- 👋 Hi, I’m ###@abdenassar01
+- 👀 I’m interested in web programming and mobile .
+- 🌱 I’m currently learning vb.net, java , React, Spring Boot
 - 💞️ I’m looking to collaborate on not Now
 - 📫 How to reach me abdenassaramimi2001@gmail.com
 
