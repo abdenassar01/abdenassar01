@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Spring Boot, React, React Native**
 
-- 👨‍💻 All of my projects are available at [https://abdenassar-portfolio-5upoda0is-abdenassaramimi99-gmailcom.vercel.app/](https://abdenassar-portfolio-5upoda0is-abdenassaramimi99-gmailcom.vercel.app/)
+- 👨‍💻 All of my projects are available at [https:/nassardev.me/)
 
-- 📫 How to reach me **abdenassaramimi@gmail.com**
+- 📫 How to reach me **contact@nassardev.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
