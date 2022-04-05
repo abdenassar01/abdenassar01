@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Spring Boot, React, React Native**
 
-- 👨‍💻 All of my projects are available at [(https:/nassardev.me/)]
+- 👨‍💻 All of my projects are available at [https:/nassardev.me/](https:/nassardev.me/)
 
 - 📫 How to reach me **contact@nassardev.me**
 
