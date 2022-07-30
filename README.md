@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm ABDENASSAR AMIMI</h1>
-<h3 align="center">A passionate fullStack developer from Morocco</h3>
+<h3 align="center">a passionate fullStack developer from Morocco</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdenassar01&label=Profile%20views&color=0e75b6&style=flat" alt="abdenassar01" /> </p>
 
-- 🔭 I’m currently working on **Ecomerce-spring_boot-api**
-
-- 🌱 I’m currently learning **Spring Boot, React, React Native**
+- 🌱 I’m currently learning **Typescript, Spring Boot, ReactJs, Remix, React Native**
 
 - 👨‍💻 All of my projects are available at [https://nassardev.me/](https://nassardev.me/)
 
-- 📫 How to reach me **contact@nassardev.me**
+- 📫 How to reach me **abdenassaramimi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
