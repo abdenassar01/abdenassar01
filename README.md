@@ -24,6 +24,6 @@
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdenassar01&layout=compact&langs_count=7&theme=radical"/>
   </div>
   <div align="center">
-      ![abdenassar amimi](https://github.com/abdenassar01/abdenassar01/blob/output/github-contribution-grid-snake.gif)
+    <img width="100%" src="[https://github-readme-stats.vercel.app/api?username=abdenassar01&theme=radical&show_icons=true](https://github.com/abdenassar01/abdenassar01/blob/output/github-contribution-grid-snake.gif)"/>
   </div>
 </div>
