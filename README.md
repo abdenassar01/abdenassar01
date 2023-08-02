@@ -27,6 +27,6 @@
   </div>
     
   <div align="center">
-      <img width="100%" src="https://github.com/abdenassar01/abdenassar01/blob/output/github-contribution-grid-snake.svg"/>
+      // <img width="100%" src="https://github.com/abdenassar01/abdenassar01/blob/output/github-contribution-grid-snake.svg"/>
   </div>
 </div>
