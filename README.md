@@ -29,4 +29,7 @@
   <div align="center">
       <!-- <img width="100%" src="https://github.com/abdenassar01/abdenassar01/blob/output/github-contribution-grid-snake.svg"/> -->
   </div>
+  <codersrank-skills-chart username="abdenassar01"></codersrank-skills-chart>
 </div>
+<script src="https://unpkg.com/@codersrank/skills-chart@x.x.x/codersrank-skills-chart.min.js"></script>
+
