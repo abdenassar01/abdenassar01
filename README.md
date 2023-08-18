@@ -4,8 +4,16 @@
 </h1>
   <h3 align="center" style="padding: 10px 0; color: #fff">a passionate full stack developer from Morocco</h3>
 
-  <p align="center"> <img style="width: 150px;" src="https://komarev.com/ghpvc/?username=abdenassar01&label=Profile%20views&color=0e75b6&style=flat" alt="abdenassar01" /> </p>
-
+  <p align="center">
+  
+  
+   <img style="width: 150px;" src="https://komarev.com/ghpvc/?username=abdenassar01&label=Profile%20views&color=0e75b6&style=flat" alt="abdenassar01" /> 
+   
+   </p>
+   <div style="width: 100vw; margin-top: 20px">
+   <a href="https://www.buymeacoffee.com/abdenassar6" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+   </div>  
+<div
   <img style="border-radius: 10px" alt="abdenassar amimi" src="https://i.imgur.com/HKnz81P.png" />
 
   <h3 align="center">Connect with me:</h3>
@@ -29,8 +37,9 @@
   <div align="center">
       <!-- <img width="100%" src="https://github.com/abdenassar01/abdenassar01/blob/output/github-contribution-grid-snake.svg"/> -->
   </div>
-<!--   <codersrank-skills-chart username="abdenassar01"></codersrank-skills-chart>
-  <script src="https://unpkg.com/@codersrank/skills-chart@x.x.x/codersrank-skills-chart.min.js"></script> -->
+  <img
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=abdenassar01"
+/>
 </div>
 
 
