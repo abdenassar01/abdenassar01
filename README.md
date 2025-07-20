@@ -8,8 +8,7 @@
   
   
    <!-- <img style="width: 150px;" src="https://komarev.com/ghpvc/?username=abdenassar01&label=Profile%20views&color=0e75b6&style=flat" alt="abdenassar01" />  -->
-   [![committers.top badge](https://user-badge.committers.top/morocco/abdenassar01.svg)](https://user-badge.committers.top/morocco/abdenassar01)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdenassar01&label=Profile%20views&color=0e75b6&style=flat" alt="Abdenassar Amimi" /> </p>
+[![committers.top badge](https://user-badge.committers.top/morocco_private/abdenassar01.svg)](https://user-badge.committers.top/morocco_private/abdenassar01)<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdenassar01&label=Profile%20views&color=0e75b6&style=flat" alt="Abdenassar Amimi" /> </p>
    
    </p>
    <div style="width: 100vw; margin-top: 20px">
