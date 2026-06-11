@@ -22,5 +22,4 @@
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=abdenassar01&theme=radical&show_icons=true"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdenassar01&layout=compact&langs_count=7&theme=radical"/>
   </div>
-<img src="https://camo.githubusercontent.com/7ef68e888bc9ae388153b74739076a0f3321d50be0dfba68bfc92d906d9409a5/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e76657263656c2e6170702f67726170683f757365726e616d653d74617573737931302662675f636f6c6f723d776869746526636f6c6f723d666666666666266c696e653d32633663653626706f696e743d66666666666626686964655f626f726465723d66616c7365" data-canonical-src="https://github-readme-activity-graph.vercel.app/graph?username=abdenassar01&amp;bg_color=white&amp;color=ffffff&amp;line=048487&amp;point=ffffff&amp;hide_border=false" style="max-width: 100%;">
-</div>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abdenassar01&bg_color=ffffff&color=26daa3&line=41b883&point=0000b6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
