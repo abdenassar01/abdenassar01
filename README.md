@@ -22,4 +22,3 @@
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=abdenassar01&theme=radical&show_icons=true"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdenassar01&layout=compact&langs_count=7&theme=radical"/>
   </div>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abdenassar01&bg_color=ffffff&color=26daa3&line=41b883&point=0000b6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
